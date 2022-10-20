@@ -9,10 +9,10 @@ user_agent = "user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/5
 print(user_agent)
 
 # Логин
-login_olimp = "1421140"
+login_olimp = "######"
 print("Логин: ", login_olimp)
 
-login_fonbet = "79876239953"
+login_fonbet = "########"
 
 # Банк
 bank = float(10)
